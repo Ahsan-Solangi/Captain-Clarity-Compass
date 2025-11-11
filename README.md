@@ -1,6 +1,6 @@
 # Captain-Clarity-Compass
 I wanted to create a chatbot that specifically gives us advice on our problems, while it roleplays a pirate, I mainly created this for my Youtube content, and for fun i guess.
-Also, you need API to use this web app, you can get one for free from Google AI Studio I guess, I did :D
+Also, you need API key to use this web app, you can get one for free from Google AI Studio I guess, I did :D
 And I hope I uploaded all the files necessary to run the app, to run it locally you have to:
 1. Install dependencies:
    `npm install`
